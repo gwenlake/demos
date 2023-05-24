@@ -1,2 +1,0 @@
-source: https://github.com/facebookresearch/dino
-ckpt_path: https://dl.fbaipublicfiles.com/dino/dino_vitbase16_pretrain/dino_vitbase16_pretrain.pth
